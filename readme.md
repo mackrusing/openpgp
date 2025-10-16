@@ -21,12 +21,14 @@ This is my current personal master key. This key is only used to certify subkeys
 6DC9 7755 8096 CD5D C083  E97C 2005 B76A 9C2D A0B1
 ```
 
-## Personal Key (2023) `E8D5BCB2793ED3B1`
+## Personal Key (2023) `E8D5BCB2793ED3B1` \[revoked\]
 
 - [Repo](./1A2D0E8B21132F785481CC53E8D5BCB2793ED3B1.pub.asc)
 - [Web](https://openpgp.mackk.net/1A2D0E8B21132F785481CC53E8D5BCB2793ED3B1.pub.asc)
 
-This is my former personal master key. It was used to sign commits from 2023-02-11 to 2025-10-16.
+This is my former personal master key, revoked on 2025-10-16 and replaced by `B64C73CF54B57069`. It was used to sign commits from 2023-02-11 to 2025-10-16.
+
+This key was superseded but **not compromised**. Commits signed while it was in use can still be trusted.
 
 ```
 1A2D 0E8B 2113 2F78 5481  CC53 E8D5 BCB2 793E D3B1
